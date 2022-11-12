@@ -84,3 +84,16 @@ THEN I should have proper build scripts for a webpack application
 <img src="./assets/00-idb-storage.jpg">
 
 
+
+# GitHub Repository link
+
+
+https://github.com/Trebligony/text-editor-app
+
+
+
+# Heroku App Deployment Link
+
+https://just-text-editor-app.herokuapp.com/
+
+
