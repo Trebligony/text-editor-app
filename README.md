@@ -70,4 +70,7 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
 
+### App Screenshots
+
+<img src="./assets/00-demo.jpg">
 
