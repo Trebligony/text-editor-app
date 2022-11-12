@@ -74,3 +74,13 @@ THEN I should have proper build scripts for a webpack application
 
 <img src="./assets/00-demo.jpg">
 
+
+<img src="./assets/00-manifest.jpg">
+
+
+<img src="./assets/00-service-worker.jpg">
+
+
+<img src="./assets/00-idb-storage.jpg">
+
+
